@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adipiz99&label=Profile%20views&color=b40e0e&style=flat" alt="adipiz99" /> </p>
 
-- 🔭 I’m currently working on [genetic algorithms in FLY Language](https://github.com/spagnuolocarmine/FLY-language/tree/ga)
+- 🔭 I’m currently working on [genetic algorithms in FLY Language](https://github.com/fly-language)
 
 - 🌱 I’m currently learning **Swift, Flutter and Serverless computing**
 
