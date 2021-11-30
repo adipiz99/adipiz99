@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrea Di Pierno</h1>
-<h3 align="center">A Computer Science student from Italy</h3>
+<h3 align="center">A Computer Science Master student from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adipiz99&label=Profile%20views&color=b40e0e&style=flat" alt="adipiz99" /> </p>
 
 - 🔭 I’m currently working on [genetic algorithms in FLY Language](https://github.com/fly-language)
 
-- 🌱 I’m currently learning **Swift, Flutter and Serverless computing**
+- 🌱 I’m currently learning **Compilers, Cloud Computing basics and Cloud Security**
 
 - 📫 How to reach me **a.dipierno99@gmail.com**
 
