@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [genetic algorithms in FLY Language](https://github.com/fly-language)
 
-- 🌱 I’m currently learning **Compilers, Cloud Computing basics and Cloud Security**
+- 🌱 I’m currently learning **Cybersecurity, Secure Programming and Concurrent Programming on Cloud**
 
 - 📫 How to reach me **a.dipierno99@gmail.com**
 
