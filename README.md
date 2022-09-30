@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on some projects for my Master Degree
 
-- 🌱 I’m currently learning **Cybersecurity, Secure Programming and Concurrent Programming on Cloud**
+- 🌱 I’m currently learning **Enterprise Mobile Applications Development, Advanced Alghoritms, Data Compression and Distributed Architectures for Cloud**
 
 - 📫 How to reach me: **a.dipierno99@gmail.com**
 
