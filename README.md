@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrea Di Pierno</h1>
-<h3 align="center">A Computer Science Master student from Italy</h3>
+<h3 align="center">A Cybersecurity PhD student from Italy</h3>
 
-- 🔭 I’m currently working on some projects for my Master Degree
+- 🔭 I’m currently working on my Phd project
 
-- 🌱 I’m currently learning **Enterprise Mobile Applications Development, Advanced Alghoritms, Data Compression and Distributed Architectures for Cloud**
+- 🌱 I’m currently learning **Computer vision and Penetration Testing**
 
 - 📫 How to reach me: **a.dipierno99@gmail.com**
 
-- ✨ Something about me: i love reading and training
+- ✨ Something about me: i love reading and learning new technologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
