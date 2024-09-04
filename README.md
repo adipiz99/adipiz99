@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrea Di Pierno</h1>
 <h3 align="center">A Cybersecurity PhD student from Italy</h3>
 
-- 🔭 I’m currently working on my Phd project
+- 🔭 I’m currently enrolled in the National PhD in Cybersecurity at IMT School of Advanced Studies (Lucca, IT), working from University of Catania
 
-- 🌱 I’m currently learning **Computer vision and Penetration Testing**
+- 🌱 I’m currently learning **Audio Deepfake Detection methodologies**
 
 - 📫 How to reach me: **a.dipierno99@gmail.com**
 
