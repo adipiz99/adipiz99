@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently enrolled in the National PhD in Cybersecurity at IMT School of Advanced Studies (Lucca, IT), working from University of Catania
 
-- 🌱 I’m currently learning **Audio Deepfake Detection methodologies**
+- 🌱 I’m currently learning **Audio Deepfake Detection and attributions methodologies**
 
 - 📫 How to reach me: **a.dipierno99@gmail.com**
 
