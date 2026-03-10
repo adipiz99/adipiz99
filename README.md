@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrea Di Pierno</h1>
+<h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">A Cybersecurity PhD student from Italy</h3>
 
 - 🔭 I’m currently enrolled in the National PhD in Cybersecurity at IMT School of Advanced Studies (Lucca, IT), working from University of Catania
